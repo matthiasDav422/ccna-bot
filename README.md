@@ -10,3 +10,5 @@ A rule-based Q&A bot for CCNA certification prep with 30 common networking quest
 ## How to Run
 ```bash
 python main.py
+## how to use ```bash
+python main.py
